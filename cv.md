@@ -1,7 +1,7 @@
 ## PROFILE
 Dominik Zakrzewski
 
-Please do me a favor and call me **`Domel`**.
+Please, do me a favor and call me **`Domel`**.
 
 
 
@@ -18,14 +18,14 @@ Let's :speaking_head: on Discord: **LeDomello #4097**.
 
 
 ## SUMMARY
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 Results-driven computer science student from University of Technology passionate about developing user-friendly software applications. Excellent problem-solving skills and ability to perform well in a team. Seeking to help Company Yellow & Curved Bananas develop their product as a software engineer, as well as grow and develop my own skills as a coder.
 
 
 
 ## SKILLS
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 Standing at entry-level in the programming world!
 
@@ -45,14 +45,14 @@ Standing at entry-level in the programming world!
 
 
 ## Code examples
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 **[30 Days of React](https://github.com/fullstackreact/30-days-of-react)** | **[Minesweeper](https://github.com/rrborja/minesweeper)** | **[Awork](https://github.com/awork-io/awork)**
 
 
 
 ## Experience
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 1. Reviewed the performance issues raised by users with concurrent requests and application screens.
 2. Fine-tuned and fixed the underlying objects/programs for better performance.
@@ -63,7 +63,7 @@ Standing at entry-level in the programming world!
 
 
 ## Education
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 - Gdansk University of Technology - ***Master of Disaster*** Master Degree.
 - ALX School - ***Webmaster*** course.
@@ -72,7 +72,7 @@ Standing at entry-level in the programming world!
 
 
 ## English
-<sup>All the data below is fake, to be updated with real stuff</sup>
+<sup>All the data below is fake, to be updated with real stuff.</sup>
 
 1. Took part in the educational process of 100 students of 5–6th grades.
 2. Planned and delivered English language lessons that incorporated the use of authorial audio-visual aids and various English teaching methods.
