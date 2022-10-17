@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(56, 56, 56);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-weight: 700;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, rgb(16, 83, 103), rgb(8, 201, 114));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+strong {
+    color: rgb(4, 112, 76);
+    background-color: rgba(127, 255, 212, 0.296);
+}
+
+.box {
+    background: whitesmoke;
+    width: 80%;
+    padding: 5% 5% 1% 5%;
+    margin: 2rem auto 1rem auto;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(13, 250, 151, 0.892);
+}
+
+#article-header {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    justify-items: center;
+    align-items: center;
+}
+
+.header-left {
+    background-image: linear-gradient(45deg, rgb(16, 83, 103), rgb(8, 201, 114));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.header-right {
+    text-align: right;
+}
+
+#header-aboutme {
+    margin: 0 0 2% 2%;
+    font-style: italic;
+    text-align: justify;
+    text-justify: inter-word;
+    color: rgb(8, 80, 56);
+}
+
+.navigation-section {
+    margin: 2% auto;
+    padding: 1%;
+    background-image: linear-gradient(90deg, rgba(16, 83, 103, 0.2), rgb(8, 201, 114, 0.2));
+    border-radius: 5px;
+}
+
+pre {
+    background: #c9dcd8;
+    border: 1px solid #ddd;
+    border-left: 5px solid #21896f;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 0.5em 1em;
+    display: block;
+    word-wrap: break-word;
+}
+
+.days-of-react {
+    background-color: #99decd;
+    color: #c9dcd8;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.skills, .code-examples, .project-examples, .education, .contacts, footer {
+    margin: 5% auto;
+}
+
+table {
+    border: 2px solid rgb(12, 110, 97);
+    margin: 1% 0;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid rgb(12, 110, 97);
+    padding: 0.5%;
+}
+
+td {
+    width: 33.3%;
+}
+
+th {
+    background-color: rgb(5, 65, 60);
+    color: aquamarine;
+}
+
+footer {
+    text-align: center;
+}
+
+hr {
+    border-top: 0.1px solid rgb(217, 228, 224);
+    box-shadow: 0 0 10px rgba(66, 126, 113, 0.4);
+}
