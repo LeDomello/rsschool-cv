@@ -1,1 +1,1 @@
-https://github.com/LeDomello/rsschool-cv.git
+https://ledomello.github.io/rsschool-cv/
